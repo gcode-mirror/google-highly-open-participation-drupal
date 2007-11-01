@@ -1,13 +1,43 @@
-#summary One-sentence summary of this page.
+#summary Further Information for Student Contestants
 
-= Introduction =
+= Task Categories =
 
-Add your content here.
+Most tasks have been sorted into the following categories. You can find all tasks in a particular category by searching for a particular label:
+
+    * Code: tasks which involve patching existing code or writing new code
+    * Documentation: tasks which involve fixing errors in existing documentation or writing new documentation
+    * Marketing: tasks which involve helping the project spread the word about their offerings
+    * Localization: tasks which involve translating documentation, etc. into other languages
+    * Testing: tasks which involve testing software or writing tests for an existing code base
+    * User Interface: tasks which involve UI design or user experience research 
+
+Tasks which do not fall into one of these categories will be labeled "other." 
 
 
-= Details =
+= Resources =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+If you are interested in participating in the contest by working on the Subversion project, you should spend some time checking out the project home page.
+
+These pages will be the most useful for you as a newly arrived contributor:
+
+    * Frequently Asked Questions (FAQ): Start with this page to learn more about the project history, development methods, how-to's and more.
+    * Code Download: You can get a copy of Subversion's latest code releases from this page.
+    * Documentation: Start here to take a look at the project's existing documentation.
+    * Mailing Lists: This page will explain all of the project mailing lists, including what each list is used for and how to subscribe. 
+
+== Getting Help ==
+
+If you have signed up to complete a particular task and you have some questions about how best to complete it, first see if the task description has specific instructions about whom to contact for assistance. If there are no specific instructions in the task, these resources should be helpful to you:
+By Chat
+
+Representatives from the Subversion project will be hanging out in #svn-contest-example on irc.freenode.net to answer any questions you may have. If they don't know the answer, they will be happy to point you in the right direction.
+By Email
+
+You can always ask questions on our contest mailing list, high-school-contest at svn dot org. Please let us know where you've looked for the answer so we can note for the future areas where our documentation can be strengthened.
+
+If you have asked your question on the mailing list but find you need a more granular answer, one of the program administrators will introduce you to the right person.
+Other Questions
+
+If you have a question not answered here that is related to contest mechanics, your best bet is to check out Google's program page for more details. You can also contact Google's program administrators for help by emailing them at example at google dot com.
+
+If you have a question not answered here that is related to a particular task or about the Subversion project in general, please contact Subversion's organization administrators for more details. You can reach them by emailing contest-help at svn dot org. 
