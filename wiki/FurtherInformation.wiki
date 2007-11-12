@@ -18,7 +18,7 @@ Tasks which do not fall into one of these categories will be labeled "other."
 
 = Resources =
 
-If you are interested in participating in the contest by working on the Drupal project, you should spend some time checking out the project website.  It is also recommended that you get an account on Drupal.org.
+If you are interested in participating in the contest by working on the Drupal project, you should spend some time checking out the [http://drupal.org/ project website].  It is also recommended that you [http://drupal.org/user/register get an account] on Drupal.org.
 
 
 Here are some of the first things to check out as a newly arrived contributor:
@@ -35,7 +35,7 @@ Here are some of the first things to check out as a newly arrived contributor:
     * Working with the issue queue (???)
 
 
-= HowTos for Specific Tasks =
+= How-Tos for Specific Tasks =
 
     * Setting up a test environment: http://drupal.org/node/28245
     * Creating a Drupal theme (???)
