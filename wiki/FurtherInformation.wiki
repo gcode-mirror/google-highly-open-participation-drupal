@@ -23,11 +23,11 @@ If you are interested in participating in the contest by working on the Drupal p
 
 Here are some of the first things to check out as a newly arrived contributor:
 
-    * Download: You can get a copy of the latest version of Drupal from this page.
-    * Documentation: Start here to get information About Drupal, Installation and read our existing documentation.
-    * API Documentation: This site has all of the developer API documentation.
-    * Mailing Lists: This page will explain all of the project mailing lists, including what each list is used for and how to subscribe.
-    * IRC Channels: There are a number of IRC channels, many for specific areas of Drupal.
+    * [http://drupal.org/download Download]: You can get a copy of the latest version of Drupal from this page.
+    * [http://drupal.org/handbooks Documentation]: Start here to get information About Drupal, Installation and read our existing documentation.
+    * [http://api.drupal.org/ API Documentation]: This site has all of the developer API documentation.
+    * [http://drupal.org/mailing-lists Mailing Lists]: This page will explain all of the project mailing lists, including what each list is used for and how to subscribe.
+    * [http://drupal.org/node/108355 IRC Channels]: There are a number of IRC channels, many for specific areas of Drupal.
 
 
 = Working with the Community =
@@ -40,7 +40,7 @@ Here are some of the first things to check out as a newly arrived contributor:
     * Setting up a test environment: http://drupal.org/node/28245
     * Creating a Drupal theme (???)
     * Creating a video
-          o Contributing Videocasts handbook page 
+          o [http://drupal.org/node/62196 Contributing Videocasts handbook page]
     * How to perform a usability study (???)
 
 
@@ -48,16 +48,14 @@ Here are some of the first things to check out as a newly arrived contributor:
 
 If you have signed up to complete a particular task and you have some questions about how best to complete it, first see if the task description has specific instructions about whom to contact for assistance. If there are no specific instructions in the task, these resources should be helpful to you:
 
-    * By Chat: Representatives from the Drupal project will be hanging out in #drupal-ghop on irc.freenode.net to answer any questions you may have. If they don't know the answer, they will be happy to point you in the right direction.
-    * By Email: Will we have a mailing list? I'm thinking we'll use a groups.drupal.org group rather than a mailing list, since this is normally how this sort of collaboration works in the community. Unfortunately, there is no way to create a truly private group that doesn't appear in the UI everywhere, so we can't do so until after Google's announcement, so that means individual e-mails for now. :( -Webchickenator 11/4/07 11:04 PM
+    * *IRC Chat:* Representatives from the Drupal project will be hanging out in #drupal-ghop on irc.freenode.net to answer any questions you may have. If they don't know the answer, they will be happy to point you in the right direction.
+    * *Group Site*: You can always ask questions on our [http://groups.drupal.org/ghop contest group page].  Group administrators will be monitoring the site and will answer questions or get you in touch with the right person.  Students are encouraged to answer questions as well and use the site to communicate with one another.
 
-      You can always ask questions on our contest group page, http://groups.drupal.org/ghop. Please let us know where you've looked for the answer so we can note for the future areas where our documentation can be strengthened.
-
-      If you have asked your question on the group but find you need a more granular answer, one of the program administrators will introduce you to the right person. 
+Please let us know where you've looked for the answer so we can note for the future areas where our documentation can be strengthened.
 
 
 = Other Questions =
 
-If you have a question not answered here that is related to contest mechanics, your best bet is to check out Google's program page for more details. You can also contact Google's program administrators for help by emailing them at example at google dot com.
+If you have a question not answered here that is related to contest mechanics, your best bet is to check out Google's PROGRAM PAGE for more details. You can also contact Google's program administrators for help by emailing them at EXAMPLE at google dot com.
 
 If you have a question not answered here that is related to a particular task or about the Drupal project in general, please contact using the Getting Help section as a guide.
