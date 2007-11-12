@@ -35,7 +35,7 @@ Here are some of the first things to check out as a newly arrived contributor:
     * Working with the issue queue (???)
 
 
-= How-Tos for Specific Tasks =
+= !HowTos for Specific Tasks =
 
     * Setting up a test environment: http://drupal.org/node/28245
     * Creating a Drupal theme (???)
