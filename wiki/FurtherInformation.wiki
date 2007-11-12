@@ -41,7 +41,7 @@ Here are some of the first things to check out as a newly arrived contributor:
     * Creating a Drupal theme (???)
     * Creating a video
           o [http://drupal.org/node/62196 Contributing Videocasts handbook page]
-    * [UsabilityStudy How to perform a usability study] (???)
+    * How to perform a usability study (???)
 
 
 = Getting Help =
