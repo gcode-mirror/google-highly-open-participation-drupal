@@ -2,11 +2,11 @@
 
 = Guidelines =
   * The goal of GHOP is to get students interested and involved in open source, not to get free child labour. ;) The tasks should reflect that. Try and form your tasks around ideas that are fun, interesting, of high importance for the project, and/or would look great on a college application.
-  * Each task should be scoped so that it would take a student approx. 2-5 days to complete, in between normal school work. If you have a great task idea, but it's going to take longer than that, consider turning it into a research task which can then be handed off to the larger community for execution.
+  * Each task should take a student approx. 2-5 days to complete, in between normal school work. If you have a great task idea, but it's going to take longer than that, consider turning it into a research task which can then be handed off to the larger community for execution.
   * Tasks don't need to be limited to coding! Tasks can be pretty much anything, including QA, marketing, design, usability, documentation, research...
-  * Avoid "wildcard" tasks like "go fix any bug in the queue." We only have 102 slots available, so let's ensure that they're put against specific goals that we as a project require.
+  * Avoid "wildcard" tasks like "go fix any bug in the queue." You only have 102 slots available, so ensure that they're put against specific goals that you as a project require.
   * For coding tasks, it's safe to assume some level of HTML/CSS/JS/PHP knowledge. But remember that most of the students probably have not heard of Drupal, or if they have, they're probably not familiar with its underlying APIs. So make sure to allow enough time for them to come up to speed (with help) and still get the task done.
-  * Each task needs to make it clear exactly what we're looking for, which includes a detailed description of what the work entails and a clearly-defined deliverable. It also should include references to existing documentation specific to the task, unless this information is already covered in the Wiki (coding standards, etc). This both helps students not waste time spinning their wheels looking for information, and helps ensure their efforts meet our expectations, leading to a more positive experience all around. :)
+  * Each task needs to make it clear exactly what you're looking for, which includes a detailed description of what the work entails and a clearly-defined deliverable. It also should include references to existing documentation specific to the task, unless this information is already covered in the Wiki (coding standards, etc). This helps students not waste time spinning their wheels looking for information, and helps ensure their efforts meet your expectations, leading to a more positive experience all around. :)
 
 
 = Task template =
@@ -19,14 +19,14 @@ Consists of:
 
 An initial sentence or two that describes what the task entails and why a student would want to spend their time on it (emphasize importance to project, transferable skills...).
 
-Several sentences/bullets that provide more detail into the task: What approach should students use? What level of detail are we looking for? 
+Several sentences/bullets that provide more detail into the task: What approach should students use? What level of detail are you looking for? 
 
 A sentence about what the expected deliverable is (a tutorial reviewed by at least one member of the documentation team and posted to the handbook, a patch in the core issue queue marked ready to be committed...)
 
 *Resources*
 Bulleted list of resources specific to the task. This includes handbook pages, off-site resources, IRC channels, related groups on groups.drupal.org, etc.
 
-*Esimated time*
+*Estimated time*
 A "day" range of how long you think the task will take to complete, bearing in mind factors mentioned in the guidelines.
 
 = Good task examples =
