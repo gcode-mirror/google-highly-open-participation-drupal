@@ -30,9 +30,12 @@ Bulleted list of resources specific to the task. This includes handbook pages, o
 A "day" range of how long you think the task will take to complete, bearing in mind factors mentioned in the guidelines.
 
 = Good task examples =
+  * [http://code.google.com/p/google-highly-open-participation-drupal/issues/detail?id=9 Create A Short Administrator Screencast Introducing Views module] -- very specced out, so there's no question of what's expected.
+  * [http://code.google.com/p/google-highly-open-participation-drupal/issues/detail?id=13 Research Microformats and recommend ways they could be used in Drupal] -- Microformats are interesting outside of Drupal, so knowledge gained here is transferable.
+  * [http://code.google.com/p/google-highly-open-participation-drupal/issues/detail?id=1 Take screen shots of all themes that are missing] -- Low barrier to entry, but extremely highly important task.
 
-= Less good task examples =
-  * Re-write the node rendering API -- not do-able within the time-frame, even by chx. ;)
+= "Less good" ;) task examples =
+  * Re-write the node rendering API -- not do-able within the time-frame, even by chx/eaton. ;)
   * Port the webchick theme to D6 -- a "personal" itch to scratch that doesn't have a lot of impact in the project overall.
   * Fix five documents in the handbook that are out of date -- "wildcard" task; we should instead find specific documents that are high-impact that need love and make those into tasks.
   * Port the Google Analytics module to Drupal 6 -- this task has already been done by the community.
