@@ -37,11 +37,26 @@ Here are some of the first things to check out as a newly arrived contributor:
 
 = !HowTos for Specific Tasks =
 
+== Coding Resources ==
     * Setting up a test environment: http://drupal.org/node/28245
-    * Creating a Drupal theme (???)
+    * CVS handbook: http://drupal.org/handbook/cvs
+    * Patching guide: http://drupal.org/patch
+    * Coding standards: http://drupal.org/coding-standards
+    * Converting 5.x modules to 6.x: http://drupal.org/node/114774
+
+== Video Resources ==
+
     * Creating a video
           o [http://drupal.org/node/62196 Contributing Videocasts handbook page]
+
+
+== Theme Resources ==
+
+    * Creating a Drupal theme (???)
+
+== Usability Resources ==
     * How to perform a usability study (???)
+
 
 
 = Getting Help =
