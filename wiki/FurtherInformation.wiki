@@ -45,10 +45,8 @@ Here are some of the first things to check out as a newly arrived contributor:
     * Converting 5.x modules to 6.x: http://drupal.org/node/114774
 
 == Video Resources ==
-
-    * Creating a video
-          o [http://drupal.org/node/62196 Contributing Videocasts handbook page]
-
+    * How to contribute a video: http://drupal.org/node/62196
+    * Screencasts about screencasting: http://showmedo.com/videos/ScreenCasting
 
 == Theme Resources ==
 
