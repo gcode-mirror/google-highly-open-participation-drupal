@@ -43,6 +43,7 @@ Here are some of the first things to check out as a newly arrived contributor:
     * Patching guide: http://drupal.org/patch
     * Coding standards: http://drupal.org/coding-standards
     * Converting 5.x modules to 6.x: http://drupal.org/node/114774
+    * #drupal on irc.freenode.net
 
 == Video Resources ==
     * How to contribute a video: http://drupal.org/node/62196
@@ -50,6 +51,9 @@ Here are some of the first things to check out as a newly arrived contributor:
 
 == Theme Resources ==
     * Drupal 6 Theme Developer's Guide: http://drupal.org/node/171179
+    * Example CSS theme: http://www.lullabot.com/blog/6-get-your-css-only-theme-right-here
+    * Theme Developer's group: http://groups.drupal.org/theme-development
+    * #drupal-themes on irc.freenode.net
 
 == Usability Resources ==
     * How to perform a usability study (???)
