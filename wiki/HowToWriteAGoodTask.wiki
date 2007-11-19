@@ -9,10 +9,25 @@
 
 = Task template =
 
-*Task title:* A short description of what the task entails
+*Task title*
+A short description of what the task entails
 
-*Task description:* 
+*Task description*
+Consists of:
 
+An initial sentence or two that describes what the task entails and why a student would want to spend their time on it (emphasize importance to project, transferable skills...).
+
+Several sentences/bullets that provide more detail into the task: What approach should students use? What level of detail are we looking for? 
+
+A sentence about what the expected deliverable is (a tutorial reviewed by at least one member of the documentation team and posted to the handbook, a patch in the core issue queue marked ready to be committed...)
+
+*Resources*
+Bulleted list of resources specific to the task. This includes handbook pages, off-site resources, IRC channels, related groups on groups.drupal.org, etc.
+
+*Esimated time*
+A "day" range of how long you think the task will take to complete, bearing in mind factors mentioned in the guidelines.
+
+= Good task examples =
 
 = Less good ;) task examples =
 
