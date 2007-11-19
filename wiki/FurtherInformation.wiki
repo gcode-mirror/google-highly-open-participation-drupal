@@ -49,8 +49,7 @@ Here are some of the first things to check out as a newly arrived contributor:
     * Screencasts about screencasting: http://showmedo.com/videos/ScreenCasting
 
 == Theme Resources ==
-
-    * Creating a Drupal theme (???)
+    * Drupal 6 Theme Developer's Guide: http://drupal.org/node/171179
 
 == Usability Resources ==
     * How to perform a usability study (???)
