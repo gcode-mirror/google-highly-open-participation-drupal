@@ -7,7 +7,7 @@
   * Avoid "wildcard" tasks like "go fix any bug in the queue." You only have 102 slots available, so ensure that they're put against specific goals that you as a project require.
   * For coding tasks, it's safe to assume some level of HTML/CSS/JS/PHP knowledge. But remember that most of the students probably have not heard of Drupal, or if they have, they're probably not familiar with its underlying APIs. So make sure to allow enough time for them to come up to speed (with help) and still get the task done.
   * Each task needs to make it clear exactly what you're looking for, which includes a detailed description of what the work entails and a clearly-defined deliverable. It also should include references to existing documentation specific to the task, unless this information is already covered in the Wiki (coding standards, etc). This helps students not waste time spinning their wheels looking for information, and helps ensure their efforts meet your expectations, leading to a more positive experience all around. :)
-
+  * Once a task is entered, it *cannot* be edited, so make sure you get all the spelling and such right the first time around. ;)
 
 = Task template =
 
@@ -28,6 +28,9 @@ Bulleted list of resources specific to the task. This includes handbook pages, o
 
 *Estimated time*
 A "day" range of how long you think the task will take to complete, bearing in mind factors mentioned in the guidelines.
+
+*Primary contact*
+The person who whom we should list as the "owner" of the task, who will give the final sign-off. This should be either you or someone who you've talked to about taking this on.
 
 = Good task examples =
   * [http://code.google.com/p/google-highly-open-participation-drupal/issues/detail?id=9 Create A Short Administrator Screencast Introducing Views module] -- very detailed spec, so there's no question of what's expected.
