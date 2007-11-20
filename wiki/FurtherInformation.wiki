@@ -67,7 +67,7 @@ If you have signed up to complete a particular task and you have some questions 
     * *IRC Chat:* Representatives from the Drupal project will be hanging out in #drupal-ghop on irc.freenode.net to answer any questions you may have. If they don't know the answer, they will be happy to point you in the right direction.
     * *Group Site*: You can always ask questions on our [http://groups.drupal.org/ghop contest group page].  Group administrators will be monitoring the site and will answer questions or get you in touch with the right person.  Students are encouraged to answer questions as well and use the site to communicate with one another.
 
-If you've looked for the answer but could not find any documentation or it was unclear please create a [documentation issue]http://drupal.org/node/24565 or [contribute to the documentation]http://drupal.org/node/24572 yourself so the community can continue to improve the information for everyone.
+If you've looked for the answer but could not find any documentation or it was unclear please create a [http://drupal.org/node/24565 documentation issue] or [http://drupal.org/node/24572 contribute to the documentation] yourself so the community can continue to improve the information for everyone.
 
 
 = Other Questions =
