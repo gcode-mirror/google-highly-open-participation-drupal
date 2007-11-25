@@ -22,11 +22,7 @@ Here are some of the first things to check out as a newly arrived contributor:
     * [http://api.drupal.org/ API Documentation]: This site has all of the developer API documentation.
     * [http://drupal.org/mailing-lists Mailing Lists]: This page will explain all of the project mailing lists, including what each list is used for and how to subscribe.
     * [http://drupal.org/node/108355 IRC Channels]: There are a number of IRC channels, many for specific areas of Drupal.
-
-
-= Working with the Community =
-    * Working with the issue queue: http://drupal.org/node/10259
-    * HOWTO: Enact change within the Drupal community: http://drupal.org/node/36602
+    * [http://drupal.org/node/10259 Working with the issue queue]: Tips and tricks on how to work with the issue queue, submit great bug reports/reviews, and so on.
 
 = !HowTos for Specific Tasks =
 
@@ -50,6 +46,9 @@ Here are some of the first things to check out as a newly arrived contributor:
 
 == Usability Resources ==
     * Example feedback: http://factoryjoe.pbwiki.com/FeedbackForDrupal6
+
+== Documentation Resources ==
+    * [http://drupal.org/node/add/project-issue/documentation Post an issue to the documentation issue queue] that's titled "I would like to join the documentation team." This gives you access to edit handbook pages directly.
 
 = Getting Help =
 If you have signed up to complete a particular task and you have some questions about how best to complete it, first see if the task description has specific instructions about whom to contact for assistance. If there are no specific instructions in the task, these resources should be helpful to you:
