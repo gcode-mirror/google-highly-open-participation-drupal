@@ -26,6 +26,8 @@ A sentence about what the expected deliverable is (a tutorial reviewed by at lea
 *Resources*
 Bulleted list of resources specific to the task. This includes handbook pages, off-site resources, IRC channels, related groups on groups.drupal.org, etc.
 
+Perhaps include a link to the general resources also: http://code.google.com/p/google-highly-open-participation-drupal/wiki/FurtherInformation 
+
 *Estimated time*
 A "day" range of how long you think the task will take to complete, bearing in mind factors mentioned in the guidelines.
 
