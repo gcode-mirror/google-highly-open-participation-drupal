@@ -37,6 +37,8 @@ The person we should list as the "owner" of the task, who will monitor student s
 *Drupal issue*
 In a label, with the format: DrupalIssue-197224
 
+*Mark open*
+
 = Good task examples =
   * [http://code.google.com/p/google-highly-open-participation-drupal/issues/detail?id=9 Create A Short Administrator Screencast Introducing Views module] -- very detailed spec, so there's no question of what's expected.
   * [http://code.google.com/p/google-highly-open-participation-drupal/issues/detail?id=13 Research Microformats and recommend ways they could be used in Drupal] -- Microformats are interesting outside of Drupal, so knowledge gained here is transferable.
