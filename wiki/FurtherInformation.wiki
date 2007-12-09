@@ -15,21 +15,22 @@ Most tasks have been sorted into the following categories. You can find all task
 = Task Deadlines =
 All of Drupal's tasks, regardless of what they say in the original description, have a deadline of one week (7 days). Originally, all of our tasks were shorter than that, but we've found that a week gives a much more realistic deadline, both for the students to get who are juggling homework and exams, and for the reviewers who are also working on other things, such as trying to get Drupal 6 released. ;) Many tasks in their descriptions have estimated times of shorter duration. Unfortunately, we can't go back and edit those tickets, but it's safe to ignore those estimated time values.
 
-Once a task is claimed, we'll assign it a "DueDate-YYYY-MM-DD" label, which is +1 week from the claimed date.
+Once a task is claimed, we'll assign it a "!DueDate-YYYY-MM-DD" label, which is +1 week from the claimed date.
 
-Please note that we are not heartless people (in fact we're pretty darn nice! :)), and can make exceptions on deadlines as long as you're staying in communication about what's going on. However, if you know a task is going to take you longer than a day or two on the outside of the deadline, please be fair to other students and don't claim the task, or un-claim it if you see that you're not realistically going to make it so that someone else can get a shot if they want.
+Please note that we are not heartless people (in fact, we're pretty darn nice! :)), and can make exceptions on deadlines as long as you're staying in communication about what's going on. However, if you know a task is going to take you longer than a day or two on the outside of the deadline, please be fair to other students and don't claim the task, or un-claim it if you see that you're not realistically going to make it so that someone else can get a shot if they want.
 
 = Task workflow =
-In order to stay true to the rules of Google's program, the issues tracker here will be where all major status updates are done, such as claiming/un-claiming a task, marking a task "ActionNeeded" as it's nearing a deadline, and posting final work.
+In order to stay true to the rules of Google's program, the issues tracker here will be where all major status updates are done, such as claiming/un-claiming a task, marking a task "!ActionNeeded" as it's nearing a deadline, and posting final work.
 
-However, in order to give you the most realistic experience of participating in an open source community, we require that work be completed and questions be asked on the drupal.org website. This will ensure a far greater number and quality of reviews than posting work to the Google task tracker. Each task has a "DrupalIssue-######" label, which corresponds to the URL http://drupal.org/node/##### on our site. You'll need to [http://drupal.org/user/register get an account] on Drupal.org in order to post status updates to your issue.
+However, in order to give you the most realistic experience of participating in an open source community, we require that work be completed and questions be asked on the drupal.org website. This will ensure a far greater number and quality of reviews than posting work to the Google task tracker, which is generally only followed religiously by those handling administrative things such as status changes and such. Each task has a "!DrupalIssue-######" label, which corresponds to the URL http://drupal.org/node/##### on our site. You'll need to [http://drupal.org/user/register get an account] on Drupal.org in order to post status updates to your issue.
 
 Please don't make the mistake of toiling away in a dark corner somewhere, frustrated because things aren't quite working. Ask questions! We're here to help! :) Even if your code still has some bugs, or your mock-up isn't quite perfect, posting incremental updates of what you have done so far to your issue can get you helpful feedback early on so that the end result can be even better. It's the open source way. :)
 
-While not a hard-and-fast requirement, generally students also get a lot more of the "community feel" by logging into IRC. We have two channels on irc.freenode.net:
+While not a hard-and-fast requirement, generally students also get a lot more of the "community feel," not to mention more immediate help, by logging into IRC. We have two channels on irc.freenode.net:
 
-* #drupal-ghop, for general chit-chat, questions about the GHOP program, or Drupal questions that you're scared might be "stupid" (hint: they're not ;))
-* #drupal, for coding questions and interactive issue reviews. Mention you're a GHOP student so people pay a bit more attention when you ask for stuff. ;)
+#drupal-ghop, for general chit-chat, questions about the GHOP program, or Drupal questions that you're scared might be "stupid" (hint: they're not ;))
+
+#drupal, for coding questions and interactive issue reviews. Might not hurt to mention you're a GHOP student, so you get more prompt assistance.
 
 = Resources =
 
