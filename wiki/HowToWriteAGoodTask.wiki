@@ -2,9 +2,9 @@
 
 = Guidelines =
   * The goal of GHOP is to get students interested and involved in open source, not to get free child labour. ;) The tasks should reflect that. Try and form your tasks around ideas that are fun, interesting, of high importance for the project, and/or would look great on a college application.
-  * Each task should take a student approx. 2-5 days to complete, in between normal school work. If you have a great task idea, but it's going to take longer than that, consider turning it into a research task which can then be handed off to the larger community for execution.
+  * Each task should take a student approx. 7 days to complete, in between normal school work. If you have a great task idea, but it's going to take longer than that, consider turning it into a research task which can then be handed off to the larger community for execution.
   * Tasks don't need to be limited to coding! Tasks can be pretty much anything, including QA, marketing, design, usability, documentation, research...
-  * Avoid "wildcard" tasks like "go fix any bug in the queue." You only have 102 slots available, so ensure that they're put against specific goals that you as a project require.
+  * Avoid "wildcard" tasks like "go fix any bug in the queue." You only have 200 slots available, so ensure that they're put against specific goals that you as a project require.
   * For coding tasks, it's safe to assume some level of HTML/CSS/JS/PHP knowledge. But remember that most of the students probably have not heard of Drupal, or if they have, they're probably not familiar with its underlying APIs. So make sure to allow enough time for them to come up to speed (with help) and still get the task done.
   * Each task needs to make it clear exactly what you're looking for, which includes a detailed description of what the work entails and a clearly-defined deliverable. It also should include references to existing documentation specific to the task, unless this information is already covered in the Wiki (coding standards, etc). This helps students not waste time spinning their wheels looking for information, and helps ensure their efforts meet your expectations, leading to a more positive experience all around. :)
   * Once a task is entered, it *cannot* be edited, so make sure you get all the spelling and such right the first time around. ;)
