@@ -21,7 +21,8 @@ An initial sentence or two that describes what the task entails and why a studen
 
 Several sentences/bullets that provide more detail into the task: What approach should students use? What level of detail are you looking for? 
 
-A sentence about what the expected deliverable is (a tutorial reviewed by at least one member of the documentation team and posted to the handbook, a patch in the core issue queue marked ready to be committed...)
+*Deliverable(s)*
+A sentence about what the expected deliverable is (a tutorial reviewed by at least one member of the documentation team and posted to the handbook, a patch in the core issue queue marked ready to be committed...).  Please be specific as possible here.  If the student should create a patch, specify the branch against which the patch should be rolled.  If a handbook page should be created, it's great to specify what you think the parent should be.  Making the deliverable very clear to the student helps the reviewers know when a student has completed the task and can make the task take less time because the student knows up front exactly what is required.
 
 *Resources*
 Bulleted list of resources specific to the task. This includes handbook pages, off-site resources, IRC channels, related groups on groups.drupal.org, etc.
