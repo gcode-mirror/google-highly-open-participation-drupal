@@ -15,3 +15,5 @@ Google has a few specific rules that must be followed in order for you to get cr
 = More information =
   * Official GHOP rules:  http://code.google.com/opensource/ghop/2007-8/rules.html
   * GHOP FAQ:  http://code.google.com/opensource/ghop/2007-8/faqs.html
+
+*In case you are wondering, the AdminChecked tag on a task means that a Drupal GHOP admin has checked the task and everything seems to be in order.*
