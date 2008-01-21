@@ -1,0 +1,13 @@
+#summary Follow the instructions here to make sure you get credit for tasks you have completed.
+
+= Introduction =
+
+Google has a few specific rules that must be followed in order for you to get credit for tasks that you have completed.  For each task that you have completed, please make sure that you have done everything listed below or you may not receive credit for the task.
+
+
+= Checklist =
+  * Attach any work you have done for the task to a comment for that specific task.
+    *  If you created a video that is too large to attach, you should place that video on Google Video and provide the Google Video URL in a comment to the task.
+    *  If you created a handbook page on drupal.org, you can copy the source of the handbook page into a .html file and attach that file, as well as any pictures, etc. to the GHOP task as a .zip or other compressed file.
+  *  Make sure that every issue you have completed has a status of "Closed" in the official GHOP task tracker on code.google.com.  If you find one that has the wrong status, please add a comment asking an administrator to fix the status.
+  *  Make sure that all tasks you have completed have the exact same "ClamiedBy-XXXX" tag, where XXXX is your Google account.  If you happened to claim tasks using multiple Google accounts, please post a follow up on some of the issues asking an admin to switch the "ClaimedBy" tag to the correct account.
