@@ -1,0 +1,48 @@
+# Guidelines #
+  * The goal of GHOP is to get students interested and involved in open source, not to get free child labour. ;) The tasks should reflect that. Try and form your tasks around ideas that are fun, interesting, of high importance for the project, and/or would look great on a college application.
+  * Each task should take a student approx. 7 days to complete, in between normal school work. If you have a great task idea, but it's going to take longer than that, consider turning it into a research task which can then be handed off to the larger community for execution.
+  * Tasks don't need to be limited to coding! Tasks can be pretty much anything, including QA, marketing, design, usability, documentation, research...
+  * Avoid "wildcard" tasks like "go fix any bug in the queue." You only have 200 slots available, so ensure that they're put against specific goals that you as a project require.
+  * For coding tasks, it's safe to assume some level of HTML/CSS/JS/PHP knowledge. But remember that most of the students probably have not heard of Drupal, or if they have, they're probably not familiar with its underlying APIs. So make sure to allow enough time for them to come up to speed (with help) and still get the task done.
+  * Each task needs to make it clear exactly what you're looking for, which includes a detailed description of what the work entails and a clearly-defined deliverable. It also should include references to existing documentation specific to the task, unless this information is already covered in the Wiki (coding standards, etc). This helps students not waste time spinning their wheels looking for information, and helps ensure their efforts meet your expectations, leading to a more positive experience all around. :)
+  * Once a task is entered, it **cannot** be edited, so make sure you get all the spelling and such right the first time around. ;)
+
+# Task template #
+
+**Task title**
+A short description of what the task entails
+
+**Task description**
+Consists of:
+
+An initial sentence or two that describes what the task entails and why a student would want to spend their time on it (emphasize importance to project, transferable skills...).
+
+Several sentences/bullets that provide more detail into the task: What approach should students use? What level of detail are you looking for?
+
+**Deliverable(s)**
+A sentence about what the expected deliverable is (a tutorial reviewed by at least one member of the documentation team and posted to the handbook, a patch in the core issue queue marked ready to be committed...).  Please be specific as possible here.  If the student should create a patch, specify the branch against which the patch should be rolled.  If a handbook page should be created, it's great to specify what you think the parent should be.  Making the deliverable very clear to the student helps the reviewers know when a student has completed the task and can make the task take less time because the student knows up front exactly what is required.
+
+**Resources**
+Bulleted list of resources specific to the task. This includes handbook pages, off-site resources, IRC channels, related groups on groups.drupal.org, etc.
+
+Perhaps include a link to the general resources also: http://code.google.com/p/google-highly-open-participation-drupal/wiki/FurtherInformation
+
+**Primary contact**
+The person we should list as the "owner" of the task, who will monitor student submissions and give the final sign-off. This should be either you or someone who you've talked to about taking this on.
+
+**Drupal issue**
+In a label, with the format: DrupalIssue-197224
+
+**Mark open**
+
+# Good task examples #
+  * [Create A Short Administrator Screencast Introducing Views module](http://code.google.com/p/google-highly-open-participation-drupal/issues/detail?id=9) -- very detailed spec, so there's no question of what's expected.
+  * [Research Microformats and recommend ways they could be used in Drupal](http://code.google.com/p/google-highly-open-participation-drupal/issues/detail?id=13) -- Microformats are interesting outside of Drupal, so knowledge gained here is transferable.
+  * [Take screen shots of all themes that are missing](http://code.google.com/p/google-highly-open-participation-drupal/issues/detail?id=1) -- Low barrier to entry, but an extremely important task.
+  * [Improve initial user experience](http://code.google.com/p/google-highly-open-participation-drupal/issues/detail?id=7) -- both important and can be re-issued as task to multiple participants.
+
+# "Less good" ;) task examples #
+  * Re-write the node rendering API -- not do-able within the time-frame, even by chx/eaton. ;)
+  * Port the webchick theme to D6 -- a "personal" itch to scratch that doesn't have a lot of impact in the project overall.
+  * Fix five documents in the handbook that are out of date -- "wildcard" task; we should instead find specific documents that are high-impact that need love and make those into tasks.
+  * Port the Google Analytics module to Drupal 6 -- this task has already been done by the community.

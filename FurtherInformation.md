@@ -1,0 +1,80 @@
+# Task Categories #
+Most tasks have been sorted into the following categories. You can find all tasks in a particular category by searching for a particular label:
+
+  * Code: tasks which involve patching existing code or writing new code
+  * Documentation: tasks which involve fixing errors in existing documentation or writing new documentation
+  * Outreach: tasks which involve helping the project spread the word about their offerings
+  * Translation: tasks which involve translating documentation, etc. into other languages
+  * QualityAssurance: tasks which involve testing software or writing tests for an existing code base
+  * UserInterface: tasks which involve UI design or user experience research
+  * Training: Tasks related to helping others learn more
+  * Research: Tasks related to studying a problem and recommending solutions
+
+# Task Deadlines #
+All of Drupal's tasks, regardless of what they say in the original description, have a deadline of one week (7 days). Originally, all of our tasks were shorter than that, but we've found that a week gives a much more realistic deadline, both for the students to get who are juggling homework and exams, and for the reviewers who are also working on other things, such as trying to get Drupal 6 released. ;) Many tasks in their descriptions have estimated times of shorter duration. Unfortunately, we can't go back and edit those tickets, but it's safe to ignore those estimated time values.
+
+Once a task is claimed, we'll assign it a "DueDate-YYYY-MM-DD" label, which is +1 week from the claimed date.
+
+Please note that we are not heartless people (in fact, we're pretty darn nice! :)), and can make exceptions on deadlines as long as you're staying in communication about what's going on. However, if you know a task is going to take you longer than a day or two on the outside of the deadline, please be fair to other students and don't claim the task, or un-claim it if you see that you're not realistically going to make it so that someone else can get a shot if they want.
+
+# Task workflow #
+In order to stay true to the rules of Google's program, the issues tracker here will be where all major status updates are done, such as claiming/un-claiming a task, marking a task "ActionNeeded" as it's nearing a deadline, and posting final work.
+
+However, in order to give you the most realistic experience of participating in an open source community, we require that work be completed and questions be asked on the drupal.org website. This will ensure a far greater number and quality of reviews than posting work to the Google task tracker, which is generally only followed religiously by those handling administrative things such as status changes and such. Each task has a "DrupalIssue-######" label, which corresponds to the URL http://drupal.org/node/##### on our site. You'll need to [get an account](http://drupal.org/user/register) on Drupal.org in order to post status updates to your issue.
+
+Please don't make the mistake of toiling away in a dark corner somewhere, frustrated because things aren't quite working. Ask questions! We're here to help! :) Even if your code still has some bugs, or your mock-up isn't quite perfect, posting incremental updates of what you have done so far to your issue can get you helpful feedback early on so that the end result can be even better. It's the open source way. :)
+
+While not a hard-and-fast requirement, generally students also get a lot more of the "community feel," not to mention more immediate help, by logging into IRC. We have two channels on irc.freenode.net:
+
+#drupal-ghop, for general chit-chat, questions about the GHOP program, or Drupal questions that you're scared might be "stupid" (hint: they're not ;))
+
+#drupal, for coding questions and interactive issue reviews. Might not hurt to mention you're a GHOP student, so you get more prompt assistance.
+
+# Resources #
+
+Here are some of the first things to check out as a newly arrived contributor:
+
+  * [Download](http://drupal.org/download): You can get a copy of the latest version of Drupal from this page.
+  * [Documentation](http://drupal.org/handbooks): Start here to get information About Drupal, Installation and read our existing documentation.
+  * [API Documentation](http://api.drupal.org/): This site has all of the developer API documentation.
+  * [Mailing Lists](http://drupal.org/mailing-lists): This page will explain all of the project mailing lists, including what each list is used for and how to subscribe.
+  * [IRC Channels](http://drupal.org/node/108355): There are a number of IRC channels, many for specific areas of Drupal.
+  * [Working with the issue queue](http://drupal.org/node/10259): Tips and tricks on how to work with the issue queue, submit great bug reports/reviews, and so on.
+
+# HowTos for Specific Tasks #
+
+## Coding Resources ##
+  * Setting up a test environment: http://drupal.org/node/28245
+  * CVS handbook: http://drupal.org/handbook/cvs
+  * Patching guide: http://drupal.org/patch
+  * Coding standards: http://drupal.org/coding-standards
+  * Converting 5.x modules to 6.x: http://drupal.org/node/114774
+  * #drupal on irc.freenode.net
+
+## Video Resources ##
+  * How to contribute a video: http://drupal.org/node/62196
+  * Screencasts about screencasting: http://showmedo.com/videos/ScreenCasting
+
+## Theme Resources ##
+  * Drupal 6 Theme Developer's Guide: http://drupal.org/node/171179
+  * Example CSS theme: http://www.lullabot.com/blog/6-get-your-css-only-theme-right-here
+  * Theme Developer's group: http://groups.drupal.org/theme-development
+  * #drupal-themes on irc.freenode.net
+
+## Usability Resources ##
+  * Example feedback: http://factoryjoe.pbwiki.com/FeedbackForDrupal6
+
+## Documentation Resources ##
+  * [Post an issue to the documentation issue queue](http://drupal.org/node/add/project-issue/documentation) that's titled "I would like to join the documentation team." This gives you access to edit handbook pages directly.
+
+# Getting Help #
+If you have signed up to complete a particular task and you have some questions about how best to complete it, first see if the task description has specific instructions about whom to contact for assistance. If there are no specific instructions in the task, these resources should be helpful to you:
+
+  * **IRC Chat:** Representatives from the Drupal project will be hanging out in #drupal-ghop on irc.freenode.net to answer any questions you may have. If they don't know the answer, they will be happy to point you in the right direction.
+  * **Group Site**: You can always ask questions in our [GHOP group](http://groups.drupal.org/ghop-2007).  Group administrators will be monitoring the site and will answer questions or get you in touch with the right person.  Students are encouraged to answer questions as well and use the site to communicate with one another.
+
+If you've looked for the answer but could not find any documentation or it was unclear please create a [documentation issue](http://drupal.org/node/24565) or [contribute to the documentation](http://drupal.org/node/24572) yourself so the community can continue to improve the information for everyone.
+
+# Other Questions #
+
+If you have a question not answered here that is related to contest mechanics, your best bet is to check out the [Google Highly Open Participation Contest page](http://code.google.com/opensource/ghop/2007-8) for more details.
